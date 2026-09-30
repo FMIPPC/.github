@@ -2,6 +2,8 @@
 
 ## Parallel Programming for LLMs
 
+
+
 The course moves from language model fundamentals through GPU programming,
 parallelism, scaling, evaluation, data, and post-training. See the
 [course repository](https://github.com/FMIPPC/lectures) for setup and
@@ -33,6 +35,7 @@ not need to install anything or have a GPU to view them.
 | 16 | Post-training II: reinforcement learning from verifiable rewards | [PDF slides](https://fmippc.github.io/lectures/lecture_16.pdf) |
 | 17 | Multimodal models | [Interactive lecture](https://fmippc.github.io/lectures/?trace=lecture_17), [Python source](https://github.com/FMIPPC/lectures/blob/main/lecture_17.py) |
 
+
 ### Labs
 
 Enrolled students may use computing resources at the Advanced Computing Center
@@ -47,4 +50,7 @@ Computing Center at the University of Bucharest (ACC-UB).
 For usage and access information, see the
 [ACC-UB user guide](https://unibuc-dtd.github.io/advanced-computing-center-user-guide/).
 
-This course adapts material from [Stanford CS336](https://cs336.stanford.edu/).
+This course adapts some material from [Stanford CS336](https://cs336.stanford.edu/).
+
+### Teams channel for Master y1: https://teams.microsoft.com/l/team/19%3Au88EbE_MvHwU3graE6mAHU2Lil7wnYIdtBjNnlG9MSM1%40thread.tacv2/conversations?groupId=7b05554e-5f6f-4f51-8e77-2f6f7bdc3c5a&tenantId=08a1a72f-fecd-4dae-8cec-471a2fb7c2f1
+### Teams channel for Master y2: https://teams.microsoft.com/l/team/19%3A505bb3dcfb27405ebfc685dd2097eebe%40thread.tacv2/conversations?groupId=43584709-b816-4da0-a92b-188bd97085a4&tenantId=08a1a72f-fecd-4dae-8cec-471a2fb7c2f1
